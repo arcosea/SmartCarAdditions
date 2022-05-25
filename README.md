@@ -1,6 +1,6 @@
 # SmartCarAdditions
 Includes additional components that are to be attached to the SmartCar project
-Author: Erick Arcos
+* Author: Erick Arcos
 
 * Notes:
   * Programmed an Arduino Nano to have various functions. 
